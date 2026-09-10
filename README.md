@@ -1,4 +1,4 @@
-# phishing-email-sample
+# phishing-email-sample TASK 2
 Description
 
 This project focuses on analyzing a sample phishing email to identify common phishing indicators such as suspicious sender addresses, urgent language, threatening messages, suspicious links, and requests for personal information. The analysis also explains basic email header information and safe actions to take when a suspicious email is received.
